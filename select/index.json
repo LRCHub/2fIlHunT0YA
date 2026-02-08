@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Mr. Bobby",
+  "base_artist": "樽木栄一郎",
+  "createdAt": "2026-02-08T07:44:42.206788Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mr Bobby",
+      "artist": "Manu Chao",
+      "has_synced": true,
+      "path": "select/01_Mr_Bobby_Manu_Chao.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mr Bobby - Live",
+      "artist": "Manu Chao",
+      "has_synced": false,
+      "path": "select/02_Mr_Bobby_-_Live_Manu_Chao.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Forzando Maquina / Mr. Bobby",
+      "artist": "Manu Chao",
+      "has_synced": false,
+      "path": "select/03_Forzando_Maquina___Mr._Bobby_Manu_Chao.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mr Bobby",
+      "artist": "Manu Chao",
+      "has_synced": true,
+      "path": "select/04_Mr_Bobby_Manu_Chao.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mr. Bobby",
+      "artist": "Manu Chao",
+      "has_synced": true,
+      "path": "select/05_Mr._Bobby_Manu_Chao.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Forzando Maquina / Mr. Bobby (Live Baïonarena)",
+      "artist": "Manu Chao",
+      "has_synced": false,
+      "path": "select/06_Forzando_Maquina___Mr._Bobby_(Live_Baïonarena)_Manu_Chao.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mr. Bobby",
+      "artist": "Bobby Ray",
+      "has_synced": false,
+      "path": "select/07_Mr._Bobby_Bobby_Ray.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mr Bobby (Live @ Coachella 2007)",
+      "artist": "Manu Chao",
+      "has_synced": true,
+      "path": "select/08_Mr_Bobby_(Live_@_Coachella_2007)_Manu_Chao.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "11 - Mr Bobby",
+      "artist": "Manu Chao",
+      "has_synced": true,
+      "path": "select/09_11_-_Mr_Bobby_Manu_Chao.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mr. Bobby",
+      "artist": "B.o.B",
+      "has_synced": false,
+      "path": "select/10_Mr._Bobby_B.o.B.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mr Bobby (Live)",
+      "artist": "Manu Chao",
+      "has_synced": false,
+      "path": "select/11_Mr_Bobby_(Live)_Manu_Chao.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "15 Mr. Bobby",
+      "artist": "B.o.B",
+      "has_synced": false,
+      "path": "select/12_15_Mr._Bobby_B.o.B.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mr.Bobby [2024]",
+      "artist": "樽木栄一郎",
+      "has_synced": false,
+      "path": "select/pl_01_Mr.Bobby_[2024]_樽木栄一郎.txt"
+    }
+  ]
+}
